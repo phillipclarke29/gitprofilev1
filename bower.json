@@ -1,0 +1,24 @@
+{
+  "name": "gitprofile1",
+  "homepage": "https://github.com/phillipclarke29/gitprofilev0",
+  "authors": [
+    "philip <philip.clarke@redhood.co.uk>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.4",
+    "bootstrap": "~3.3.5",
+    "angular": "~1.4.7",
+    "angular-resource": "~1.4.7"
+  }
+}
